@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafayy2codes
 - 👀 I’m interested in Frontend/Backend development and Machine learning/Deep learning
-- 🌱 I’m currently learning typescript and advance React
+- 🌱 I’m currently learning typescript, advance React and backend
 - 📫 How to reach me /coming soon
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I drink coffee and code 
