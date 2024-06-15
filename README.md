@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rafay</h1>
-<h3 align="center">A passionate aspiring Full stack developer from Finland who also loves AI/ML/DL</h3>
+<h3 align="center">A passionate Full stack developer from Finland who also loves AI/ML/DL</h3>
+<h3 align="center"> 1x Oracle certified GEN AI Associate (Persuing Professional GEN AI certification) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafayy2codes&label=Profile%20views&color=0e75b6&style=flat" alt="rafayy2codes" /> </p>
 
-- 💬 Ask me about **React, Javascript, Typescript and AI/ML/DL**
+- 💬 Ask me about **React, Javascript, Typescript and GEN AI ML/DL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
