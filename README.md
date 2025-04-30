@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Full-Stack Engineer focused on building scalable, maintainable, and robust applications that solve real-world problems. Enthusiastic about AI and driven by clean code, thoughtful design, and continuous improvement. Always eager to contribute to impactful, forward-thinking projects.<br>
+Passionate Full-Stack Engineer focused on building scalable, maintainable, and robust applications that solve real-world problems. Enthusiastic about AI and driven by thoughtful design, and continuous improvement. Always eager to contribute to impactful, forward-thinking projects.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaymemon/) 
